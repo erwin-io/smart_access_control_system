@@ -3,6 +3,7 @@
     |-- arduino_lcd.ino
 |-- arduino_lcd_sms
     |-- arduino_lcd_sms.ino
+|-- diagram.drawio
 |-- esp32_micropython
     |-- main.py
     |-- reset.py
